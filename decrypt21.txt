@@ -1,7 +1,3 @@
-This Advanced Planar Stripe HEXFET ® Power MOSFET utilizes
-the latest processing techniques to achieve extremely low on-
-resistance per silicon area. Additional features of this HEXFET
-power MOSFET are a 175°C junction operating temperature, low
-RθJC, fast switching speed and improved repetitive avalanche
-rating. This combination makes the design an extremely efficient
-and reliable choice for use in a wide variety of applications.
+Dr James Mortimer calls on Sherlock Holmes in London for advice after his friend Sir Charles Baskerville was found dead in the yew alley of his manor on Dartmoor in Devon. The death was attributed to a heart attack, but according to Mortimer, Sir Charles's face retained an expression of horror, and not far from the corpse the footprints of a gigantic hound were clearly visible. According to an old legend, a curse runs in the Baskerville family since the time of the English Civil War, when a Hugo Baskerville abducted and caused the death of a maiden on the moor, only to be killed in turn by a huge demonic hound. Allegedly the same creature has been haunting the manor ever since, causing the premature death of many Baskerville heirs. Sir Charles believed in the plague of the hound and so does Mortimer, who now fears for the next in line, Sir Henry Baskerville.
+
+Even though he dismisses the curse story as nonsense, Holmes agrees to meet Sir Henry in London as soon as Sir Henry arrives from Canada, where he has been living. He is a young and jovial good-looking fellow, sceptical toward the grim legend and eager to take possession of Baskerville Hall, even though he has just found an anonymous note in the mail warning him to stay away from the moor. When someone shadows Sir Henry while he is walking down a street, however, Holmes asks Watson to go with the young man and Mortimer to Dartmoor, in order to protect Sir Henry and search for any clues about who is menacing his life. 
